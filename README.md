@@ -35,12 +35,19 @@ Identify any correlations between player attributes and performance metrics.
 ### Performance Analysis:
 
 Compare the performance of players in different formats.
+
 Analyze batting and bowling averages, strike rates, and other relevant metrics.
+
 Identify standout performances and consistent performers.
+
 Investigate player performance in different conditions (home vs. away, day vs. night matches, etc.).
+
 Explore performance trends in specific tournaments or series.
-Create visualizations (bar plots, scatter plots, etc.) to represent key insights.
+
+Create visualizations (bar plots, scatter plots, etc.) to represent key insights
+
 Visualize trends in player performance over time.
+
 Present comparisons between players in a visually informative manner.
 
 
